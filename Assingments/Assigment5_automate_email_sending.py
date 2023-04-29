@@ -24,7 +24,7 @@ import schedule
 import time
 import logging
 
-sender_email = "edanursaruhan99@gmail.com"
+sender_email = "edanursaruhan@gmail.com"
 password = input("Type your password and press enter:")
 # configure log file
 logging.basicConfig(filename='email_log.log', level=logging.INFO,
@@ -43,7 +43,7 @@ def send_emails():
     
     
 
-    #########################################password jgtwzzcsuxeaeinb
+    #########################################
 
     
     filename = "document.pdf"  # In same directory as script
